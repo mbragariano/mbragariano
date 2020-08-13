@@ -7,7 +7,7 @@ I'm back-end developer who like resolve challenges!
 ### 🚶 Personal Life
 
 - 💙 I like soccer and I'm **FBPA Grêmio** fan.
-- 🎧 I like listen **Queen**, **ACDC**, **Ramones** and others rock'n roll bands.
+- 🎧 I listen any music types but specially rock'n roll bands how **Queen**, **ACDC**, **Ramones** and others.
 
 ### 💻 Professional Life
 
