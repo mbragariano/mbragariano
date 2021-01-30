@@ -11,8 +11,8 @@ I'm back-end developer who like resolve challenges!
 
 ### 💻 Professional Life
 
-- 🚀 Lerning about **Linux**, **NodeJS** and **Clean Architecture**.
+- 🚀 Lerning about **Clean Architecture**, **DDD** and **SOLID**.
 - 📚 Studying **Information Systems** on **Integrated Colleges of Taquara**.
-- 👀 Interest: **Java**, **Linux**, **React**, **Continuos Integration**, **Docker** and **Dart**.
+- 👀 Interest: **Java**, **Software Architecture**, **Linux**, **React**, **Continuos Integration**, **Docker**.
 - ✨ Skills: **SQL**, **Git**, **SOLID**, **Java**, **Spring**, **NodeJS**, **JS/TS** and **Automated Tests**.
 - 👷 Work on back-end development with **Java** and **Spring Framework**, building and updating **REST apis**.
